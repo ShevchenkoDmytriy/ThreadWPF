@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\source\repos\Thread\Thread\bin\Debug\net6.0\Thread.exe
+C:\Users\Dmitriy\source\repos\Thread\Thread\bin\Debug\net6.0\Thread.deps.json
+C:\Users\Dmitriy\source\repos\Thread\Thread\bin\Debug\net6.0\Thread.runtimeconfig.json
+C:\Users\Dmitriy\source\repos\Thread\Thread\bin\Debug\net6.0\Thread.dll
+C:\Users\Dmitriy\source\repos\Thread\Thread\bin\Debug\net6.0\Thread.pdb
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\Thread.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\Thread.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\Thread.AssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\Thread.dll
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\refint\Thread.dll
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\Thread.pdb
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\Thread.genruntimeconfig.cache
+C:\Users\Dmitriy\source\repos\Thread\Thread\obj\Debug\net6.0\ref\Thread.dll
